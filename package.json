@@ -1,5 +1,6 @@
 {
 	"author": "Miad Hasan",
+	"description": "Making the project to complete the backend api challenges of freeCodeCamp and recall the staffs",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
